@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Anastasiia Kotliar",
+	"description": "A project that helps me become better developer",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://github.com/Nastia310104/freeCodeCampBackEndDevelopmentCourse"
+	},
 }
